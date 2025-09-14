@@ -4,11 +4,11 @@
 
 ## Accessing TorZon: The Importance of Official Onion Links
 
-http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion
+http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion
 
-[<img src="/static/input.webp" width="200">](http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion)
+[<img src="/static/input.webp" width="200">](http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion)
 
-<a href="http://55aarjpxv2vdoavwvroz2lqjcxewohgawsllju2so3nu6zhvb2gkj4id.onion"><img src="/static/style.webp" alt="TorZon Official Onion Links" style="max-width: 100%;"></a>
+<a href="http://torzon6kho72sh25do42n7hxbf7uzwze4c6pf5dyrd2xrly5vaqve5ad.onion"><img src="/static/style.webp" alt="TorZon Official Onion Links" style="max-width: 100%;"></a>
 
 The purpose of this platform is educational, providing insights into the darkweb. We are not affiliated with any illegal activities, and no commissions are received.
 
@@ -39,3 +39,5 @@ The purpose of this platform is educational, providing insights into the darkweb
 ### Disclaimer:
 
 This is for education and not to promote illegal activity.
+
+Update:  14 September 2025 url is up and running
